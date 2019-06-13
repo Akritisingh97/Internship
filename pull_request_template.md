@@ -1,12 +1,12 @@
-- [ ] file interns.md, format Name [\github-username\]\(github-username-url\)
+- [ ] file interns.md, format Name [Akritisingh97]\(https://github.com/Akritisingh97)
 - [ ] Name as heading
 - [ ] Description should have
-     - [ ] Name
-     - [ ] Mail id
+     - [Akriti Singh ]
+     - [singhakriti05@gmail.com ] 
      - [ ] Tickets closed
      - [ ] PRs created
      - [ ] Timezone
-     - [ ] Independent side projects work/writeup
+     - [Done a small project based on online shopping, made a small website named “MUsica” for online purchasing of music albums.There made a login page,signup page,homepage,Collection page and stored the data using MySQL.]  Independent side projects work/writeup
      - [ ] Timeline doc
      - [ ] Channel availability (Calendly url)
      - [ ] Daily meeting preffered timing (Calendly url)
